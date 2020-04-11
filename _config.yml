@@ -1,64 +1,57 @@
-layout: stacked
-style: dark
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-plugins:
-  - jekyll-octicons
-  - jekyll-github-metadata
-  - jemoji
+title: Francesco Fuggitti
+author: Francesco Fuggitti
+email: fuggitti@diag.uniroma1.it
+description: #>- # this means to ignore newlines until "baseurl:"
+  Francesco Fuggitti's personal website
+baseurl: ""
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-permalink: /:year/:month/:day/:title/
+github_username:  francescofuggitti
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      layout: "post"
+institute1_name: Sapienza University
+institute2_name: York University
+# institute1_logo: sapienza-logo.png
+# institute2_logo: york-logo.jpg
+institute_logo: assets/university-logo.png
+# institute_url: https://en.wikipedia.org/wiki/Mars_University
 
-topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+# Build settings
+# theme: minima
+markdown: kramdown
+theme: academic-minima
+# plugins:
+#   - jekyll-feed
 
-projects:
-  sort_by: stars
-  # sort_by options:
-  #   - pushed
-  #   - stars
-  limit: 9
-  exclude:
-    archived: false
-    forks: false
-    projects:
-    # - repo-name
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
-social_media:
-  github: francescofuggitti
-  linkedin: francesco-fuggitti-b78336131
-  skype: francesco.fuggitti
-  telegram: francescofuggitti
-  keybase: francesco17
-  # stackoverflow: 5935745
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
-  # mastodon: your_username
-  # medium: your_username
-  # twitter: your_username
-  # unsplash: your_username
-  # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
-  pgp: fuggitti-pgp.txt
+google_analytics: UA-137788077-3
 
-# Google services
-google_analytics: UA-137788077-3 
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
