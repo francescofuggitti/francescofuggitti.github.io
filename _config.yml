@@ -6,19 +6,18 @@
 
 title: Francesco Fuggitti
 author: Francesco Fuggitti
-email: fuggitti@diag.uniroma1.it
+email_1: fuggitti@diag.uniroma1.it
+email_2: fuggitti@eecs.yorku.ca
 description: #>- # this means to ignore newlines until "baseurl:"
   Francesco Fuggitti's personal website
 baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  francescofuggitti
-
 institute1_name: Sapienza University
 institute2_name: York University
 # institute1_logo: sapienza-logo.png
 # institute2_logo: york-logo.jpg
-institute_logo: assets/university-logo.png
+institute_logo: assets/images/university-logo.png
 # institute_url: https://en.wikipedia.org/wiki/Mars_University
 
 
@@ -35,6 +34,15 @@ exclude:
   - Gemfile.lock
 
 google_analytics: UA-137788077-3
+
+social_media:
+  github: francescofuggitti
+  linkedin: francesco-fuggitti-b78336131
+  skype: francesco.fuggitti
+  telegram: francescofuggitti
+  keybase: francesco17
+  pgp: fuggitti-pgp.txt
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

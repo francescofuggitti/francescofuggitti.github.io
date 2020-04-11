@@ -2,3 +2,12 @@
 ---
 
 @import "academic-minima";
+
+.myicon > svg {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 1.5em;
+  path {
+      fill: $grey-color-dark;
+  }
+}
