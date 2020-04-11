@@ -95,31 +95,31 @@
     }
 }
 
-.navigation-wrapper.has-logo {
-    padding: 12px;
-    .navigation-links {
-        width: 57%;
-        float: left;
-        @include media-query($on-palm) {
-            width: 100%;
-        }
-    }
-
-    .navigation-logo {
-        width: 43%;
-        float: left;
-        // padding: 12px;
-        box-sizing: border-box;
-        text-align: right;
-        // height: 95px;
-        img {
-            max-height: 100%;
-        }
-        @include media-query($on-palm) {
-            display: none;
-        }
-    }
-}
+// .navigation-wrapper.has-logo {
+//     padding: 12px;
+//     .navigation-links {
+//         width: 57%;
+//         float: left;
+//         @include media-query($on-palm) {
+//             width: 100%;
+//         }
+//     }
+//
+//     .navigation-logo {
+//         width: 43%;
+//         float: left;
+//         // padding: 12px;
+//         box-sizing: border-box;
+//         text-align: right;
+//         // height: 95px;
+//         img {
+//             max-height: 100%;
+//         }
+//         @include media-query($on-palm) {
+//             display: none;
+//         }
+//     }
+// }
 
 /**
  * Site footer
