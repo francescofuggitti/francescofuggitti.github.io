@@ -21,12 +21,21 @@
             </a>
             {% endif %}
           {% endif %}
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a href="mailto:{{ site.email_1 }}">{{ site.email_1 }}</a></li>
+          <li><a href="mailto:{{ site.email_2 }}">{{ site.email_2 }}</a></li>
         </ul>
       </div>
 
+      {% if site.social_media %}
       <div class="footer-col">
+        {% for account in site.social_media %}
+          {% assign service_shortname = account[0] %}
+          {% assign service = site.data.social_media[service_shortname] %}
+          <a href="{{ service.profile_url_prefix }}{{ account[1] }}" aria-label="{{ service.name }}: {{ account[1] }}">
+            <span class="myicon" >{{ service.icon_svg }}</span></a>
+        {% endfor %}
       </div>
+      {% endif %}
     </div>
   </div>
 
