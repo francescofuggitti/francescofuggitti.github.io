@@ -21,5 +21,9 @@ and
 - 2016 -- 2018: MSc. in Engineering in Computer Science
 - 2013 -- 2016: BSc. in Industrial Engineering
 
+#### Publications
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fdl.dropboxusercontent.com%2Fs%2Focrxf3qdfavmje3%2Ffrancesco-personal-website-bibtex.bib&jsonp=1"></script>
+
 
 <!-- Additionally, I've been a TA for several courses at York University. -->
