@@ -5,21 +5,29 @@
 layout: home
 ---
 
-Currently, I am a PhD student in a joint agreement between
+Currently, I am a Ph.D. student in a joint agreement between
 [Sapienza University](https://www.uniroma1.it/en/pagina-strutturale/home) in Rome (Italy) and
 [York University](https://www.yorku.ca/index.html) in Toronto (Canada).
 
-<!-- #### Research Interests -->
+My supervisors are [Giuseppe De Giacomo](https://www.dis.uniroma1.it/degiacom/) and 
+[Yves Lespérance](https://www.eecs.yorku.ca/~lesperan/).
+                                      
+I also belong to the 
+[WhiteMech](https://whitemech.github.io) research group.
+                   
+#### Research
 
-I work in the area of Artificial Intelligence under the supervision of
-[Prof. Giuseppe De Giacomo](https://www.dis.uniroma1.it/degiacom/)
-and
-[Prof. Yves Lespérance](https://www.eecs.yorku.ca/~lesperan/).
+I mainly work in the area of **Artificial Intelligence** and **Formal Methods**. In particular, 
+my research interests are on Temporal Logics, Reasoning about Actions, Planning, Explainability and Learning 
+in autonomous systems.
+
+
+
 
 ####  Education
 
-- 2016 -- 2018: MSc. in Engineering in Computer Science
-- 2013 -- 2016: BSc. in Industrial Engineering
+- 2016 -- 2018: M.Sc. in Engineering in Computer Science
+- 2013 -- 2016: B.Sc. in Industrial Engineering
 
 #### Publications
 
