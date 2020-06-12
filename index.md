@@ -7,13 +7,11 @@ layout: home
 
 Currently, I am a Ph.D. student in a joint agreement between
 [Sapienza University](https://www.uniroma1.it/en/pagina-strutturale/home) in Rome (Italy) and
-[York University](https://www.yorku.ca/index.html) in Toronto (Canada).
+[York University](https://www.yorku.ca/index.html) in Toronto (Canada). I belong to the 
+[WhiteMech](https://whitemech.github.io) research group.
 
 My supervisors are [Giuseppe De Giacomo](https://www.dis.uniroma1.it/degiacom/) and 
 [Yves Lespérance](https://www.eecs.yorku.ca/~lesperan/).
-                                      
-I also belong to the 
-[WhiteMech](https://whitemech.github.io) research group.
                    
 #### Research
 
@@ -21,7 +19,10 @@ I mainly work in the area of **Artificial Intelligence** and **Formal Methods**.
 my research interests are on Temporal Logics, Reasoning about Actions, Planning, Explainability and Learning 
 in autonomous systems.
 
-
+#### Tools
+I'm the author of several tools, most of them are hosted on [GitHub](https://github.com/francescofuggitti). The two main
+projects are [LTL<sub>f</sub>2DFA](http://ltlf2dfa.diag.uniroma1.it) and 
+[TemporalPlanning](http://temporalplanning.diag.uniroma1.it).
 
 
 ####  Education
