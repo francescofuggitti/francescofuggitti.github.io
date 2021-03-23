@@ -32,5 +32,5 @@ research tools are [LTL<sub>f</sub>2DFA](http://ltlf2dfa.diag.uniroma1.it) and
 
 #### Publications
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fdl.dropboxusercontent.com%2Fs%2Focrxf3qdfavmje3%2Ffrancesco-personal-website-bibtex.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https://dl.dropbox.com/s/8r1dfdeop6ksnla/francesco-personal-website-bibtex.bib&jsonp=1"></script>
 
