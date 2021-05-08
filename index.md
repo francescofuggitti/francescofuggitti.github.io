@@ -20,7 +20,7 @@ my research interests are on Temporal Logics, Reasoning about Actions, Planning,
 in autonomous systems.
 
 #### Tools
-I'm the author of several tools, most of them are hosted on [GitHub](https://github.com/francescofuggitti). The two main
+I am the author of several tools, most of them are hosted on [GitHub](https://github.com/francescofuggitti). The two main
 research tools are [LTL<sub>f</sub>2DFA](http://ltlf2dfa.diag.uniroma1.it) and 
 [FOND4LTL<sub>f</sub>PLTL<sub>f</sub>](http://fond4ltlfpltl.diag.uniroma1.it/).
 
@@ -32,5 +32,5 @@ research tools are [LTL<sub>f</sub>2DFA](http://ltlf2dfa.diag.uniroma1.it) and
 
 #### Publications
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fdl.dropboxusercontent.com%2Fs%2Focrxf3qdfavmje3%2Ffrancesco-personal-website-bibtex.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fwww.eecs.yorku.ca%2F~fuggitti%2Ffrancesco.bib&theme=default&jsonp=1"></script>
 

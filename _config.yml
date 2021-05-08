@@ -9,7 +9,7 @@ author: Francesco Fuggitti
 email_1: fuggitti@diag.uniroma1.it
 email_2: fuggitti@eecs.yorku.ca
 description: #>- # this means to ignore newlines until "baseurl:"
-  Francesco Fuggitti's personal website
+  Francesco Fuggitti personal website
 baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -37,7 +37,7 @@ google_analytics: UA-137788077-3
 
 social_media:
   github: francescofuggitti
-  linkedin: francesco-fuggitti-b78336131
+  linkedin: francescofuggitti
   skype: francesco.fuggitti
   telegram: francescofuggitti
   keybase: francesco17
