@@ -32,4 +32,7 @@ research tools are [LTL<sub>f</sub>2DFA](http://ltlf2dfa.diag.uniroma1.it) and
 
 #### Publications
 
+*The papers posted here consist of preliminary versions of papers that are about to be published or have been published 
+in journals or conference proceedings. For final versions, please see cited journals or proceedings.*
+
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fwww.eecs.yorku.ca%2F~fuggitti%2Ffrancesco.bib&theme=default&jsonp=1"></script>
