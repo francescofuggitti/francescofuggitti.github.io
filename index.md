@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Currently, I am a Ph.D. student in a joint agreement between
+Currently, I am a Ph.D. student in a joint international agreement between
 [Sapienza University](https://www.uniroma1.it/en/pagina-strutturale/home) in Rome (Italy) and
 [York University](https://www.yorku.ca/index.html) in Toronto (Canada). I belong to the
 [WhiteMech](https://whitemech.github.io) research group.
@@ -20,13 +20,18 @@ my research interests are on Liner-time Temporal Logics on Finite Traces, Reason
 Explainability for autonomous systems.
 
 #### Tools
-I am the author of several tools, most of them are hosted on [GitHub](https://github.com/francescofuggitti). The two main
-research tools are [LTL<sub>f</sub>2DFA](http://ltlf2dfa.diag.uniroma1.it) and
-[FOND4LTL<sub>f</sub>](https://fond4ltlf.herokuapp.com/).
+I am the author of several tools, most of them are hosted on the [WhiteMech GitHub](https://github.com/whitemech). 
+The three main research tools are [LTL<sub>f</sub>2DFA](http://ltlf2dfa.diag.uniroma1.it),
+[FOND4LTL<sub>f</sub>](https://fond4ltlf.herokuapp.com/), and 
+[Plan4Past](https://github.com/whitemech/planning-for-past-temporal-goals).
 
+#### Teaching
+During 2019 and 2020, I have been TA for several undergraduate courses at York University, including EECS1021, EECS1022, 
+EECS2021, and EECS2030.
 
 ####  Education
 
+- 2019 -- now:  Ph.D. in Electrical Engineering and Computer Science
 - 2016 -- 2018: M.Sc. in Engineering in Computer Science
 - 2013 -- 2016: B.Sc. in Industrial Engineering
 
